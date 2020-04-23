@@ -1,0 +1,14 @@
+{
+	"name": "@aqo/mysql-client",
+	"version": "1.0.0",
+	"license": "MIT",
+	"main": "./src/mysql-client.js",
+	"files": [
+		"/src",
+		"/license"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/aqocyrale/nodejs-mysql-client.git"
+	}
+}
